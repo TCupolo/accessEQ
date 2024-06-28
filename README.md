@@ -15,13 +15,12 @@
 
 ## APP DOWNLOAD INSTRUCTIONS
 The built app file is available to download for free right here on Github. It has been successfully back tested to macOS version 11.7.10. To download: 
-1. Click on the **accessEQ.app** file above.
-2. This will take you to the GitHub UI.
-3. In the top right of the screen, click the ellipsis (3 dots) button.
-![alt text](DownloadApp.png)
-4. Under Raw File Content, click on Download.
-5. On the local drive, move the downloaded accessEQ.app file over to the Mac's Application folder, where all the other apps are stored.
-6. Click on the app to run it on the Mac at least one time.
+1. On the far right of the github landing page, under Releases, click on **Initial Release**
+2. On the next screen, under Assets, click on **accessEQ.app.zip** to download the app as a zip file.
+3. Allow the download to complete.
+4. Unzip **accessEQ.app.zip** to get **accessEQ.app**
+5. Move **accessEQ.app** over to the Mac's regular Application folder, where all the other apps are stored.
+6. Click on **accessEQ.app** to run it.
 7. A helpful tutorial video on using accessEQ with hosting apps can be found @ https://www.youtube.com/@RaidioTony
 
 ## DEVELOPER INSTRUCTIONS
