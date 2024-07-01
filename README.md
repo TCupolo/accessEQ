@@ -18,10 +18,9 @@ The built app file is available to download for free right here on Github. It ha
 1. On the far right of the github landing page, under Releases, click on **Initial Release**
 2. On the next screen, under Assets, click on **accessEQ.app.zip** to download the app as a zip file.
 3. Allow the download to complete.
-4. Unzip **accessEQ.app.zip** to get **accessEQ.app**
-5. Move **accessEQ.app** over to the Mac's regular Application folder, where all the other apps are stored.
+4. Unzip **accessEQ.app.zip** to **accessEQ.app**
+5. Move **accessEQ.app** over to the Mac's regular Application folder.
 6. Click on **accessEQ.app** to run it.
-7. A helpful tutorial video on using accessEQ with hosting apps can be found @ https://www.youtube.com/@RaidioTony
 
 ## DEVELOPER INSTRUCTIONS
 
@@ -37,7 +36,7 @@ The built app file is available to download for free right here on Github. It ha
 
 
 ## EFFECTS DESCRIPTION
-![alt text](Effects.png)
+![alt text](README_img2.png)
 ### Frequency EQ
 
 This is generic EQ with the caveat that it uses high quality "brick wall" filters. Each filter covers a single octave, the complete set covers the entire spectrum of human hearing. To hear the quality of the filters, turn all bands down except 1. Then slowly move the active band from one octave to the next. Clearly distinct signals should be heard. This contrasts with most EQ implementations which use "shelving" filters.
@@ -54,15 +53,15 @@ This features provides the ability to selectively highlight different locations 
 
 This feature is designed to highlight speech content in the presence of non-speech content. For example, when listening to music, the vocals are highlighted.
 
-### Master Volume
+### Loudness EQ (Master Volume)
 
-This simple control is included to facilitate normalizing volume. After all the effects are applied to taste, a round of simple wet/dry testing, while adjusting the master volume, allows the overall loudness to remain percepturally the same.
+This simple control is included to facilitate normalizing volume. After all the effects are applied to taste, a round of simple wet/dry testing, while adjusting the master volume, allows the wet loudness to match the dry loudness.
 
 ## FUTURE IMPROVEMENTS
 
- Generally, Matlab comes out with bi-annual updates that are indicated by the year and an A or B extension For example, 2024A indicates the first release of 2024. These releases usually include new audio features. 
+ Generally, Matlab comes out with bi-annual updates that are indicated by the year and an A or B extension. For example, 2024A indicates the first release of 2024. These releases usually include new audio features. 
  
- My updates will track with Matlab updates and use the same release versioning scheme.
+ My updates will track with Matlab updates and use the same release versioning scheme. See "Introduction to accessEQ" for a detailed Roadmap.
 
 
 
